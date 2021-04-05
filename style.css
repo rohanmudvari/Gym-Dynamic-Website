@@ -1,0 +1,66 @@
+
+.box2 {
+  margin-top: 20pt;
+}
+.box2 ul li a {
+  text-decoration: none;
+  color: white;
+}
+.box2 ul li a:hover {
+  color: #76c489;
+  transition: 0.7s;
+}
+.box2 ul li {
+  padding-left: 6em;
+  font-size: larger;
+  list-style: none;
+  float: left;
+  text-transform: uppercase;
+}
+.Bimage img{
+  width: 100%;
+  height: 300px;
+}
+#congrats{
+  width: 450px;
+  position: relative;
+  border:5px solid white;
+  border-radius: 25px;
+  top: 200px;
+}
+.gotologin,#readmore{
+  background-color: green;
+  color: white;
+  border-radius: 25px;
+  padding: 5px;
+  width:100px;
+}
+#textimg{
+  border-radius: 25px; 
+}
+
+td{
+  color: white;
+}
+
+.font-effect-shadow-multiple {
+  color:white;
+  cursor: pointer;
+}
+ footer{
+  background-color:black;
+  color: white;
+}
+#privacy,#connect,#icon{
+  margin: 5px;
+}
+
+
+#privacy a{
+  text-decoration: none;
+  color: white;
+}
+#privacy a:hover{
+  text-decoration: underline;
+  color: white;
+}
